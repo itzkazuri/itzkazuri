@@ -17,7 +17,7 @@ this is a *special* repository because it's Mine.
 
 ###
 
-<img align="right" height="150" src="" alt="Kamisato Ayaka GIF" />
+<img align="right" height="150" src=""  />
 ###
 
 <div align="left">
