@@ -1,6 +1,16 @@
-<h2 align="left">Hi 👋! My name is Itzkazuri and I'm an app developer from Indonesia.</h2>
+html
+<h2 align="left">Hi 👋! My name is Itzkazuri and I'm an app developer from Indonesia.</h2> 
+ 
+# Hi there  
+ 
+this is a *special* repository because it's Mine. 
+ 
+- [x] I'm currently studying at [<span style="color:blue">Kampus INSTIKI</span>](https://instiki.ac.id)  
+- [ ] I'm currently learning Java, kotlin and flutter 
+- [ ] Ask me about anything related to cosplay hobby and sometimes play game and watching anime too 
+- [ ] Fun fact: i'm a ambivert person 
+ 
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzkazuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -37,7 +47,8 @@
   </a>
 </div>
 
-
 ###
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n33qsu6bf66rp7a3gllmyiaukq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n33qsu6bf66rp7a3gllmyiaukq&redirect=true)
+
+
