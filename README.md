@@ -1,4 +1,3 @@
-html
 <h2 align="left">Hi 👋! My name is Itzkazuri and I'm an app developer from Indonesia.</h2> 
  
  
