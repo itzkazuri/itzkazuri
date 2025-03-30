@@ -17,7 +17,7 @@ this is a *special* repository because it's Mine.
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/149917396?v=4" />
+<img align="right" height="150" src="https://media.tenor.com/vjDSgMT3MvIAAAAd/kamisato-ayaka-ayaka-genshin-impact.gif" alt="Kamisato Ayaka GIF" />
 
 ###
 
