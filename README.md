@@ -37,9 +37,6 @@
   </a>
 </div>
 
-###
-
-![Snake animation](https://raw.githubusercontent.com/itzkazuri/itzkazuri/output/snake.svg)
 
 ###
 
