@@ -16,8 +16,6 @@ this is a *special* repository because it's Mine.
 </div>
 
 ###
-
-<img align="right" height="150" src=""  />
 ###
 
 <div align="left">
