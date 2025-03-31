@@ -3,10 +3,11 @@
  
 this is a *special* repository because it's Mine. 
  
-- [x] I'm currently studying at [<span style="color:blue">Kampus INSTIKI</span>](https://instiki.ac.id)  
-- [ ] I'm currently learning Java, kotlin and flutter 
-- [ ] Ask me about anything related to cosplay hobby and sometimes play game and watching anime too 
-- [ ] Fun fact: i'm a ambivert person 
+- ✅ I'm currently studying at [🎓 **Kampus INSTIKI**](https://instiki.ac.id)  
+- 🚀 I'm currently learning **Java**, **Kotlin**, and **Flutter**  
+- 🎮 Ask me about anything related to **cosplay**, **gaming**, and **anime**  
+- 🤹‍♂️ Fun fact: I'm an **ambivert** person who enjoys both socializing and solitude  
+
  
 
 
