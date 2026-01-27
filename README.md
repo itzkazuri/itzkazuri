@@ -18,12 +18,13 @@
 val developer = Developer(
     name = "Itzkazuri",
     location = "Indonesia 🇮🇩",
-    education = "Institut Bisnis dan Teknologi Indonesia (INSTIKI)",
-    currentlyLearning = listOf("Java", "Kotlin", "Flutter", "Python", "Docker"),
+    education = "Institut Teknologi dan Bisnis STIKOM Bali",
+    currentlyLearning = listOf("Java", "Vue.js", "Flutter", "Python", "Docker"),
     mainTechStack = listOf("Linux 🐧", "Docker 🐳", "Python 🐍"),
     interests = listOf("Cosplay 🎭", "Gaming 🎮", "Anime 📺"),
     waifu = "Kamisato Ayaka ❄️ (Genshin Impact)",
     personality = "Ambivert 🤹‍♂️",
+    linuxDistro = "Arch Linux (btw) 🐧",
     motto = "Keep Breathing ~Jack Kahuna Laguna"
 )
 ```
@@ -57,6 +58,7 @@ val developer = Developer(
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,6 +71,7 @@ val developer = Developer(
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🛠️ Tools & Environment
@@ -91,14 +94,6 @@ val developer = Developer(
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzkazuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzkazuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkazuri&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzkazuri&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -133,6 +128,7 @@ val developer = Developer(
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-itzkazuri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzkazuri)
 [![Instagram](https://img.shields.io/badge/Instagram-%40itzkazuri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzkazuri)
 [![Discord](https://img.shields.io/badge/Discord-itzkazuri-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itzkazuri)
 [![Gmail](https://img.shields.io/badge/Gmail-kadekjuli0604-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadekjuli0604@gmail.com)
