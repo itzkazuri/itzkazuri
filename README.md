@@ -18,7 +18,7 @@
 val developer = Developer(
     name = "Itzkazuri",
     location = "Indonesia 🇮🇩",
-    education = "Institut Teknologi dan Bisnis STIKOM Bali",
+    education = "Institut Bisnis dan Teknologi Indonesia (INSTIKI)",
     currentlyLearning = listOf("Java", "Kotlin", "Flutter", "Python", "Docker"),
     mainTechStack = listOf("Linux 🐧", "Docker 🐳", "Python 🐍"),
     interests = listOf("Cosplay 🎭", "Gaming 🎮", "Anime 📺"),
