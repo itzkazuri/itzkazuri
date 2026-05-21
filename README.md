@@ -14,19 +14,19 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-```kotlin
-val developer = Developer(
-    name = "Itzkazuri",
-    location = "Indonesia 🇮🇩",
-    education = "Institut Teknologi dan Bisnis STIKOM Bali",
-    currentlyLearning = listOf("Java", "Vue.js", "Flutter", "Python", "Docker"),
-    mainTechStack = listOf("Linux 🐧", "Docker 🐳", "Python 🐍"),
-    interests = listOf("Cosplay 🎭", "Gaming 🎮", "Anime 📺"),
-    waifu = "Kamisato Ayaka ❄️ (Genshin Impact)",
-    personality = "Ambivert 🤹‍♂️",
-    linuxDistro = "Arch Linux (btw) 🐧",
-    motto = "Keep Breathing ~Jack Kahuna Laguna"
-)
+```typescript
+const developer = {
+    name: "Itzkazuri",
+    location: "Indonesia 🇮🇩",
+    education: "Institut Teknologi dan Bisnis STIKOM Bali",
+    currentlyLearning: ["Java", "Vue.js", "Flutter", "Rust", "Docker"],
+    mainTechStack: ["TypeScript 🔷", "Python 🐍", "Docker 🐳"],
+    interests: ["Cosplay 🎭", "Gaming 🎮", "Anime 📺"],
+    waifu: "Kamisato Ayaka ❄️ (Genshin Impact)",
+    personality: "Ambivert 🤹‍♂️",
+    linuxDistro: "Arch Linux (btw) 🐧",
+    motto: "Keep Breathing ~Jack Kahuna Laguna"
+} as const;
 ```
 
 <div align="center">
@@ -67,12 +67,14 @@ val developer = Developer(
 
 ### ⚙️ Backend & DevOps
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🛠️ Tools & Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -85,43 +87,10 @@ val developer = Developer(
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzkazuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzkazuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzkazuri&theme=dracula&hide_border=true&bg_color=0d1117&color=a277ff&line=61dafb&point=ff6bcb" alt="Activity Graph" />
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="30" /> Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31n33qsu6bf66rp7a3gllmyiaukq&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=a277ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n33qsu6bf66rp7a3gllmyiaukq&redirect=true)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="700">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94d70b3e.png" width="30" /> Connect With Me
@@ -139,6 +108,8 @@ val developer = Developer(
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itzkazuri&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  ![Visitor Count](https://count.getloli.com/@itzkazuri?name=itzkazuri&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 </div>
 
 <br>
