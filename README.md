@@ -18,7 +18,7 @@
 const developer = {
     name: "Itzkazuri",
     location: "Indonesia 🇮🇩",
-    education: "Institut Teknologi dan Bisnis STIKOM Bali",
+    education: "Institut Teknologi dan Bisnis (INSTIKI) Bali",
     currentlyLearning: ["Java", "Vue.js", "Flutter", "Rust", "Docker"],
     mainTechStack: ["TypeScript 🔷", "Python 🐍", "Docker 🐳"],
     interests: ["Cosplay 🎭", "Gaming 🎮", "Anime 📺"],
